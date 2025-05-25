@@ -1,6 +1,6 @@
 # Contributors
 - [Omar-Eltramsy](https://github.com/Omar-Eltramsy)
-- [Mike G](https://github.com/mgalkowski/)
+- [Mike G] (https://github.com/mgalkowski/)
 - [Levis-Nyagah] (https://github.com/umeskia-levi)
 - [Johnpark](https://github.com/devjohnpark)
 - [nastenka_777](https://github.com/nastenka777)
